@@ -1,16 +1,15 @@
-## Hi there 👋
+# 🎓 Zolaray | Aspiring Developer & Design Enthusiast
 
-<!--
-**zolaray/zolaray** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🎯 Academic Focus & Goals
+I am a dedicated student specializing in **Front-End Development** and **Data Analysis**, focused on creating highly **interactive web applications**. My goal is to apply theoretical concepts from coursework to **practical, research-driven projects**.
 
-Here are some ideas to get you started:
+I am particularly interested in the **design and data visualization** aspects of development, seeking opportunities to explore solutions with **research potential**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Category	Tools & Languages
+Core Languages	Python 🐍, JavaScript 📜, Java, C++
+Web Development	HTML5 🌐, CSS3 🎨, App Development (Learning)
+Design & Prototyping	Figma (UI/UX Design), C
+Concepts	Object-Oriented Programming (OOP), Data Structures, Version Control (Git)
+
+### 🗣️ Multilingual Communication
+* **Fluent:** English, Arabic, French
