@@ -5,7 +5,7 @@ I am a dedicated student specializing in **Front-End Development** and **Data An
 
 I am particularly interested in the **design and data visualization** aspects of development, seeking opportunities to explore solutions with **research potential**.
 
-Category	Tools & Languages
+
 Core Languages	Python 🐍, JavaScript 📜, Java, C++
 Web Development	HTML5 🌐, CSS3 🎨, App Development (Learning)
 Design & Prototyping	Figma (UI/UX Design), C
