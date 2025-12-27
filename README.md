@@ -1,15 +1,22 @@
-# 🎓 Zolaray | Aspiring Developer & Design Enthusiast
+# Hi, I'm Rayane Fatima Zohra 👋
+### Lead Developer | Spatio-Temporal AI Researcher 🚀
 
-### 🎯 Academic Focus & Goals
-I am a dedicated student specializing in **Front-End Development** and **Data Analysis**, focused on creating highly **interactive web applications**. My goal is to apply theoretical concepts from coursework to **practical, research-driven projects**.
+I am a research-oriented developer focused on the intersection of **Graph Neural Networks (GNNs)** and **Explainable AI (XAI)**. My work aims to solve urban complexity through predictive modeling and agentic reasoning.
 
-I am particularly interested in the **design and data visualization** aspects of development, seeking opportunities to explore solutions with **research potential**.
+---
 
+## 🔍 Featured Research Ecosystem
+I have developed a modular dual-layer framework for Urban Intelligence:
 
-Core Languages	Python 🐍, JavaScript 📜, Java, C++
-Web Development	HTML5 🌐, CSS3 🎨, App Development (Learning)
-Design & Prototyping	Figma (UI/UX Design), C
-Concepts	Object-Oriented Programming (OOP), Data Structures, Version Control (Git)
+* **[Urban-Logistics-Shenzhen](https://github.com/zolaray/Urban-Logistics-Shenzhen):** The Predictive Engine. An implementation of **T-GCN** and **ST-GNN** architectures for traffic flow forecasting on the SZ-Taxi dataset.
+* **[UrbanGuard-XAI](https://github.com/zolaray/UrbanGuard-):** The Reasoning Layer. An **Agentic AI** framework that interprets GNN outputs to provide human-readable situational reports.
 
-### 🗣️ Multilingual Communication
-* **Fluent:** English, Arabic, French
+## 🛠️ Tech Stack
+* **Deep Learning:** PyTorch, TensorFlow, GNNs (T-GCN, A3T-GCN)
+* **Data Science:** Pandas, NumPy, OSMnx, Spatio-temporal Data Mining
+* **Agents:** LLM Orchestration, LangChain, XAI
+* **Engineering:** Lead Developer experience in Full-Stack AI deployment
+
+## 📫 Connect with me
+- 📧 [zolarayanwork@gmail.com](mailto:zolarayanwork@gmail.com)
+- 📍 Seeking Master's Supervision in China 
