@@ -19,4 +19,4 @@ I have developed a modular dual-layer framework for Urban Intelligence:
 
 ## 📫 Connect with me
 - 📧 [zolarayanwork@gmail.com](mailto:zolarayanwork@gmail.com)
-- 📍 Seeking Master's Supervision in China 
+
